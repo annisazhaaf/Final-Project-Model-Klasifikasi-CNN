@@ -1,6 +1,6 @@
-# [Final Project] Model Klasifikasi Citra Lebah Madu Tanpa Sengat (_Stingless_) menggunakan _Convolutional Neural Network (CNN)_ 
+# IMPLEMENTASI MODEL KLASIFIKASI SPESIES LEBAH MADU MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (STUDI KASUS: DATA CITRA LEBAH MADU DI LEMBAH SUHITA)
 
-Project ini merupakan project akhir 'SKRIPSI' untuk menyelesaikan pendidikan Sarjana Teknik Infromatika pada Universitas Lampung. 
-Project akhir ini mengangkat fokus pada bidang keilmuan Artificial Intellegence (AI) cabang ilmu Deep Learning dan Pengolahan Citra Digital. 
-Object yang digunakan dalam penelitian ini yaitu empat jenis (_spesies_) lebah madu tanpa sengat (_stingless_) yang mana dataset diambil secara langsung 
-oleh peneliti pada lokasi penelitian yaitu lembah Suhita. 
+
+Lebah tanpa sengat (stingless bee) memiliki potensi yang unggul dibanding lebah sengat pada umumnya dalam perannya sebagai penghasil produk-produk lebah, seperti madu dan olahannya, selain itu peranan lebah secara umum sangatlah penting dalam keberlanjutan ekosistem. Namun upaya dalam pelestariannya masih tergolong minim, disisi lain tantangan lain yang dihadapi salah satunya masih kurangnya pengetahuan masyarakat dalam identifikasi spesies stingless bee karena visual morfologi lebah yang beragam dan hampir serupa dari setiap spesies. Maka dari itu, penelitian ini bertujuan membuat sebuah model klasifikasi citra dari empat jenis (spesies) stingless bee menggunakan Convolutional Neural Network (CNN). Data yang digunakan berjumlah 800 data yang diambil langsung pada Lembah Suhita. Arsitektur CNN diterapkan dengan proses transfer learning pada pretrained model MobileNetV2 dan EfficientNetB0. Hasil penelitian menunjukkan akurasi terbaik pada model MobileNetV2 mencapai 90% setelah proses fine-tuning. 
+
+Kata kunci: Stingless bee, Convolutional Neural Network (CNN), Tensorflow, Keras, Pengolahan Citra Digital, Transfer Learning, Fine-Tuning. 
